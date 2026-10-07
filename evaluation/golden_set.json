@@ -1,0 +1,22 @@
+[
+  {
+    "pregunta": "¿Para qué sirve Depends en FastAPI al declarar un endpoint?",
+    "documento_id_esperado": "fastapi"
+  },
+  {
+    "pregunta": "¿Cuándo conviene usar model_validator en lugar de field_validator en Pydantic v2?",
+    "documento_id_esperado": "pydantic"
+  },
+  {
+    "pregunta": "¿Cómo se encadena un ChatPromptTemplate con un modelo usando LCEL y el operador pipe?",
+    "documento_id_esperado": "langchain"
+  },
+  {
+    "pregunta": "¿Qué configuración tiene un índice Serverless de Pinecone y para qué sirve el namespace?",
+    "documento_id_esperado": "pinecone"
+  },
+  {
+    "pregunta": "¿Cómo persiste ChromaDB los embeddings en disco con PersistentClient y persist_directory?",
+    "documento_id_esperado": "chromadb"
+  }
+]

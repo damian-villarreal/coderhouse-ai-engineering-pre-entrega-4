@@ -1,0 +1,27 @@
+[
+  {
+    "document_id": "fastapi",
+    "path": "docs/fastapi.md",
+    "categories": ["web", "api", "python"]
+  },
+  {
+    "document_id": "pydantic",
+    "path": "docs/pydantic.md",
+    "categories": ["validacion", "modelos", "python"]
+  },
+  {
+    "document_id": "langchain",
+    "path": "docs/langchain.md",
+    "categories": ["cadenas", "rag", "python"]
+  },
+  {
+    "document_id": "pinecone",
+    "path": "docs/pinecone.md",
+    "categories": ["vectores", "nube", "retrieval"]
+  },
+  {
+    "document_id": "chromadb",
+    "path": "docs/chromadb.md",
+    "categories": ["vectores", "local", "retrieval"]
+  }
+]

@@ -1,0 +1,24 @@
+# Entorno virtual y secretos
+.venv/
+venv/
+.env
+
+# Corpus léxico generado por la ingesta (se reconstruye con ingest.py)
+data/chunks.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
